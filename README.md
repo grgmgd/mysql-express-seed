@@ -1,6 +1,6 @@
 mysql-express-seed
 
-#### Usage
+## Usage
 Install Dependencies
 ```sh
 $ npm i
