@@ -8,21 +8,21 @@ Download Link: https://nodejs.org/
 
 ## Initialization
 #### Install Dependencies
-`
+```
 $ npm install
-`
+```
 
 #### Configuration
 Initialize the configuration file by running the following command
-`
+```
 $ yo config
-`
+```
 This should initialize a JSON file in your ./src/
 
 ## Running the project
 #### Using conventional serve
-`
+```
 $ npm start
-`
+```
 
 #### Through Docker
