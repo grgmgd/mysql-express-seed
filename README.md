@@ -11,7 +11,11 @@ Download Link: https://nodejs.org/
 ```sh
 $ npm install
 ```
-### Run Project
+
+## Running the project
+#### Using conventional serve
 ```sh
 $ npm start
 ```
+
+#### Through Docker
