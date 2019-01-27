@@ -7,7 +7,7 @@ Make sure you have NodeJS installed.
 Download Link: https://nodejs.org/
 
 ## Initialization
-### Install Dependencies
+#### Install Dependencies
 ```sh
 $ npm install
 ```
