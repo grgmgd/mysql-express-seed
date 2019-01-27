@@ -18,9 +18,9 @@ Initialize the configuration file by running the following command
 $ yo config
 ```
 This should initialize a JSON file in the `./src` directory. Add your database connection hostname, port, username and password.
-There are two configuration for **Development** and **Production**. Make sure you configure them right.
+There are two configuration for **Development 🔨** and **Production **. Make sure you configure them right.
 
-***Note*** `config.json` is git ignored by default.
+***Note:*** `config.json` is git ignored by default.
 
 ## Running the project
 #### Using conventional serve
